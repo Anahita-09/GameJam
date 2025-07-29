@@ -1,3 +1,4 @@
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 # ✉️ Hope's Message: Platformer Adventure
 
 A multi-level **2D platformer game** built with **p5.js** and **p5.play**, where players race against the clock to collect letters and dodge monsters across unique, themed worlds. Can you collect all the letters in time to reveal Hope's message?
